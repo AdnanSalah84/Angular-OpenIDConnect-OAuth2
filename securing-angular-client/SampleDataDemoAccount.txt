@@ -1,0 +1,6 @@
+alice@globomantics.com
+admin@globomantics.com
+bob@globomantics.com
+mary@globomantics.com
+
+Password: Test123!!!
